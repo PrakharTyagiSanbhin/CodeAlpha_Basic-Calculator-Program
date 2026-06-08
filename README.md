@@ -1,6 +1,6 @@
 # 🧮 Smart Calculator
 
-A modern and responsive calculator built using **HTML, CSS, and JavaScript**. This project performs basic arithmetic operations such as Addition, Subtraction, Multiplication, and Division using **Switch-Case logic**. The calculator features a professional glassmorphism-inspired user interface with a modern green-teal color theme.
+A modern and responsive calculator built using **HTML, CSS, and JavaScript** for **Frontend** and **C programming** for **Backend**. This project performs basic arithmetic operations such as Addition, Subtraction, Multiplication, and Division using **Switch-Case logic**. The calculator features a professional glassmorphism-inspired user interface with a modern green-teal color theme.
 
 ---
 
@@ -37,9 +37,15 @@ This project was developed as part of a college assignment/project to understand
 
 ## 🛠️ Technologies Used
 
+### Frontend
+
 * HTML5
 * CSS3
 * JavaScript (ES6)
+
+### Backend
+
+* C Programming
 
 ---
 
