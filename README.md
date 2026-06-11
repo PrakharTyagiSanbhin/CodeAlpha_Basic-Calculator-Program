@@ -1,10 +1,10 @@
-# 🧮 Smart Calculator
+#  Smart Calculator
 
 A modern and responsive calculator built using **HTML, CSS, and JavaScript** for **Frontend** and **C programming** for **Backend**. This project performs basic arithmetic operations such as Addition, Subtraction, Multiplication, and Division using **Switch-Case logic**. The calculator features a professional glassmorphism-inspired user interface with a modern green-teal color theme.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The Smart Calculator is a beginner-friendly web application designed to perform basic mathematical calculations. It provides a clean and interactive user interface while demonstrating the implementation of arithmetic operations using JavaScript switch-case statements.
 
@@ -18,7 +18,7 @@ This project was developed as part of a college assignment/project to understand
 
 ---
 
-## ✨ Features
+##  Features
 
 * Modern Glassmorphism UI Design
 * Responsive Layout
@@ -35,7 +35,7 @@ This project was developed as part of a college assignment/project to understand
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Frontend
 
@@ -49,7 +49,7 @@ This project was developed as part of a college assignment/project to understand
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Calculator_Project/
@@ -62,7 +62,7 @@ Calculator_Project/
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Download or clone this repository.
 
@@ -86,7 +86,7 @@ No additional software installation is required.
 
 ---
 
-## 📖 Working Principle
+##  Working Principle
 
 1. User clicks calculator buttons.
 2. The entered expression is displayed on the screen.
@@ -106,7 +106,7 @@ Output: 15
 
 ---
 
-## 🔄 Switch-Case Logic
+##  Switch-Case Logic
 
 ```javascript
 switch(operator)
@@ -131,7 +131,7 @@ switch(operator)
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I learned:
 
@@ -147,7 +147,7 @@ Through this project, I learned:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Scientific Calculator Functions
 * Keyboard Input Support
